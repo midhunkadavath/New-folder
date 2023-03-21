@@ -482,12 +482,12 @@ section {
   font-weight: 500;
   font-size: 34px;
   color: #2c4964;
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 .about .content p {
   margin-bottom: 0;
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 .about .content .count-box {
@@ -501,7 +501,7 @@ section {
   color: #eeafca;
   float: left;
   line-height: 0;
-  margin-left: 15px;
+  margin-left: 25px;
 }
 
 .about .content .count-box span {
