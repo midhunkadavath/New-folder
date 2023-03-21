@@ -559,12 +559,14 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
+  
   height: 50px;
   display: block;
   background: none;
 }
 
 .skills .progress .skill {
+  
   padding: 10px 0;
   margin: 0 0 6px 0;
   text-transform: uppercase;
@@ -575,11 +577,13 @@ section {
 }
 
 .skills .progress .skill .val {
+  
   float: right;
   font-style: normal;
 }
 
 .skills .progress-bar-wrap {
+  
   background: #fbeaf1;
 }
 
