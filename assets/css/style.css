@@ -539,7 +539,9 @@ section {
 .about .image {
   background: url("../img/e5d2ec53-2922-47c1-8ed7-9ec7b46854c6.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  height: 500px;
+  width: 500px;
+  
 }
 
 @media (max-width: 991px) {
